@@ -1,2 +1,4 @@
 # hippi2
-HIPPI-2 Polarimeter
+Files realting to the HIPPI-2 Polarimeter
+
+Jeremy Bailey,  UNSW
