@@ -1,7 +1,7 @@
 # hippi2
 Files relating to the HIPPI-2 Polarimeter
 
-The following files give the transmission curves for components of HIPPI-2
+The following files give the transmission curves for components of HIPPI-2.
 Wavelength in nm in first column, transmission in per cent in 2nd column
 
 BARLOW_LAB - Negative Achromatic Lens
